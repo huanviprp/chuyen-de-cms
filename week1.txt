@@ -1,2 +1,2 @@
 Ðây là file week1.txt
-thu?c branch: week1
+thu?c branch: week1 và main
